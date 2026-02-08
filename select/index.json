@@ -1,0 +1,112 @@
+{
+  "version": 1,
+  "base_track": "Heated",
+  "base_artist": "SKRYU",
+  "createdAt": "2026-02-08T01:14:06.515661Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "HEATED",
+      "artist": "Beyoncé",
+      "has_synced": true,
+      "path": "select/01_HEATED_Beyoncé.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Heated Love",
+      "artist": "Strawberry Alarm Clock",
+      "has_synced": false,
+      "path": "select/02_Heated_Love_Strawberry_Alarm_Clock.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Heated Love (Album Version)",
+      "artist": "Strawberry Alarm Clock",
+      "has_synced": false,
+      "path": "select/03_Heated_Love_(Album_Version)_Strawberry_Alarm_Clock.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "I Want It I Need It (Death Heated)",
+      "artist": "Death Grips",
+      "has_synced": false,
+      "path": "select/04_I_Want_It_I_Need_It_(Death_Heated)_Death_Grips.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "I Want It I Need It (Death Heated)",
+      "artist": "Death Grips",
+      "has_synced": true,
+      "path": "select/05_I_Want_It_I_Need_It_(Death_Heated)_Death_Grips.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Heated Swimming Pool",
+      "artist": "Joyce Manor",
+      "has_synced": false,
+      "path": "select/06_Heated_Swimming_Pool_Joyce_Manor.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Heated Nights",
+      "artist": "Raekwon",
+      "has_synced": false,
+      "path": "select/07_Heated_Nights_Raekwon.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Heated Nights (Produced By Frank G)",
+      "artist": "Raekwon",
+      "has_synced": false,
+      "path": "select/08_Heated_Nights_(Produced_By_Frank_G)_Raekwon.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Heated",
+      "artist": "Lil Poppa",
+      "has_synced": true,
+      "path": "select/09_Heated_Lil_Poppa.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Like Once-Heated Milk",
+      "artist": "Dirty Projectors",
+      "has_synced": false,
+      "path": "select/10_Like_Once-Heated_Milk_Dirty_Projectors.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "HEATED [Explicit]",
+      "artist": "Beyoncé",
+      "has_synced": true,
+      "path": "select/11_HEATED_[Explicit]_Beyoncé.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "HEATED",
+      "artist": "Beyoncé",
+      "has_synced": true,
+      "path": "select/12_HEATED_Beyoncé.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Heated",
+      "artist": "SKRYU",
+      "has_synced": false,
+      "path": "select/pl_01_Heated_SKRYU.txt"
+    }
+  ]
+}
